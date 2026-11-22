@@ -8,11 +8,12 @@ title: Stonelune — Privacy Policy
 
 [Türkçe](#türkçe)
 
-Stonelune is a tile-matching solitaire game for Android. We have no accounts and no servers, and we never ask for a name, email address or any other personal information. The only data that leaves your phone goes to Google, for ads and Google Play purchases.
+Stonelune is a tile-matching solitaire game for Android. We have no accounts and no servers, and we never ask for a name, email address or any other personal information. The only data that leaves your phone goes to Google and its advertising partners, through the ads and Google Play purchases.
 
 ## What the game keeps
 
-- Your progress (boards finished, stars, settings, an unfinished board) is saved **only on your phone**, in the game's private storage.
+- Your progress (boards finished, stars, settings) is saved **only on your phone**, in the game's private storage. A board you leave unfinished is not saved and starts over.
+- If you answer an ad consent question, your choice is stored on your phone by the Google consent tool.
 - There is no account with us. We have no servers, so your progress is never uploaded anywhere by us.
 
 ## Ads
@@ -46,7 +47,7 @@ This information is encrypted in transit. Ads may be personalized where this is 
 
 ## What we don't collect
 
-- No personal information from us: no name, email, phone number, contacts, photos, location, camera or microphone.
+- No personal information from us: no name, email, phone number, contacts, photos, camera or microphone. The game itself never reads your location; the ad SDK may estimate your approximate location from your IP address (see above).
 - No analytics or tracking of our own, no chat and no social features.
 - The game works offline. The internet is used only for ads and Google Play purchases.
 
@@ -73,11 +74,12 @@ luneapps.support@gmail.com
 
 *Son güncelleme: 22 Kasım 2026*
 
-Stonelune, Android için taş eşleştirmeli bir pasyans oyunudur. Hesap ve sunucumuz yoktur; ad, e-posta ya da başka kişisel bilgi istemeyiz. Telefondan çıkan tek veri, reklamlar ve Google Play satın alımları için Google'a gider.
+Stonelune, Android için taş eşleştirmeli bir pasyans oyunudur. Hesap ve sunucumuz yoktur; ad, e-posta ya da başka kişisel bilgi istemeyiz. Telefondan çıkan tek veri, reklamlar ve Google Play satın alımları aracılığıyla Google'a ve reklam ortaklarına gider.
 
 ### Oyunun sakladıkları
 
-- İlerlemen (biten tahtalar, yıldızlar, ayarlar, yarım kalan tahta) **yalnızca telefonunda**, oyunun özel depolama alanında saklanır.
+- İlerlemen (biten tahtalar, yıldızlar, ayarlar) **yalnızca telefonunda**, oyunun özel depolama alanında saklanır. Yarım bıraktığın tahta kaydedilmez, baştan başlar.
+- Reklam izni sorusunu yanıtlarsan seçimin telefonunda, Google izin aracı tarafından saklanır.
 - Bizde hesabın yoktur. Sunucumuz olmadığı için ilerlemen bizim tarafımızdan hiçbir yere yüklenmez.
 
 ### Reklamlar
@@ -111,7 +113,7 @@ Bu bilgiler iletim sırasında şifrelenir. İzin verilen yerlerde reklamlar ki�
 
 ### Toplamadıklarımız
 
-- Bizden kişisel bilgi yok: ad, e-posta, telefon numarası, kişiler, fotoğraflar, konum, kamera ya da mikrofon yok.
+- Bizden kişisel bilgi yok: ad, e-posta, telefon numarası, kişiler, fotoğraflar, kamera ya da mikrofon yok. Oyunun kendisi konumunu okumaz; reklam SDK'sı IP adresinden yaklaşık konumunu tahmin edebilir (yukarıya bak).
 - Kendi analizimiz ya da izlememiz, sohbet ve sosyal özellik yok.
 - Oyun çevrimdışı çalışır. İnternet yalnızca reklamlar ve Google Play satın alımları için kullanılır.
 
