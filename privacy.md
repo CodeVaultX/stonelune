@@ -75,12 +75,12 @@ luneapps.support@gmail.com
 
 Stonelune, Android için taş eşleştirmeli bir pasyans oyunudur. Hesap ve sunucumuz yoktur; ad, e-posta ya da başka kişisel bilgi istemeyiz. Telefondan çıkan tek veri, reklamlar ve Google Play satın alımları için Google'a gider.
 
-## Oyunun sakladıkları
+### Oyunun sakladıkları
 
 - İlerlemen (biten tahtalar, yıldızlar, ayarlar, yarım kalan tahta) **yalnızca telefonunda**, oyunun özel depolama alanında saklanır.
 - Bizde hesabın yoktur. Sunucumuz olmadığı için ilerlemen bizim tarafımızdan hiçbir yere yüklenmez.
 
-## Reklamlar
+### Reklamlar
 
 Oyun **Google AdMob** reklamları gösterir:
 
@@ -104,30 +104,30 @@ Bu bilgiler iletim sırasında şifrelenir. İzin verilen yerlerde reklamlar ki�
 - Google'ın hizmetlerini kullanan uygulamalardan gelen bilgiyi kullanımı: <https://policies.google.com/technologies/partner-sites>
 - Google Gizlilik Politikası: <https://policies.google.com/privacy>
 
-## Uygulama içi satın alma
+### Uygulama içi satın alma
 
 - "Reklamları kaldır" seçeneğini **Google Play** üzerinden bir kez satın alabilirsin. Ödemeyi Google yürütür; kart ya da ödeme bilgilerini biz görmeyiz.
 - Oyun, satın alımını Google Play'e sorar ve satın alma belirtecini telefonunda saklar; böylece geri yükleyebilirsin ve iki kez verilmez. Bize hiçbir şey gönderilmez.
 
-## Toplamadıklarımız
+### Toplamadıklarımız
 
 - Bizden kişisel bilgi yok: ad, e-posta, telefon numarası, kişiler, fotoğraflar, konum, kamera ya da mikrofon yok.
 - Kendi analizimiz ya da izlememiz, sohbet ve sosyal özellik yok.
 - Oyun çevrimdışı çalışır. İnternet yalnızca reklamlar ve Google Play satın alımları için kullanılır.
 
-## Çocuklar
+### Çocuklar
 
 Stonelune 13 yaşından küçük çocuklara yönelik değildir; hiçbir yaştan kimseden bilerek bir şey toplamayız.
 
-## Verilerini silmek
+### Verilerini silmek
 
 - Oyunu kaldırmak sakladığı her şeyi siler.
 - Satın alma geçmişi Google'ın denetimindeki Google Play hesabında kalır.
 
-## Değişiklikler
+### Değişiklikler
 
 Bu politika değişirse yeni sürüm yeni tarihle bu sayfada yayımlanır.
 
-## İletişim
+### İletişim
 
 luneapps.support@gmail.com
