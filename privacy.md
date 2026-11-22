@@ -12,7 +12,7 @@ Stonelune is a tile-matching solitaire game for Android. We have no accounts and
 
 ## What the game keeps
 
-- Your progress (boards finished, stars, settings) is saved **only on your phone**, in the game's private storage. A board you leave unfinished is not saved and starts over.
+- Your progress (boards finished, stars, settings) is saved **only on your phone**, in the game's private storage. A board you leave unfinished is also saved there, so you can continue where you stopped.
 - If you answer an ad consent question, your choice is stored on your phone by the Google consent tool.
 - There is no account with us. We have no servers, so your progress is never uploaded anywhere by us.
 
@@ -78,7 +78,7 @@ Stonelune, Android için taş eşleştirmeli bir pasyans oyunudur. Hesap ve sunu
 
 ### Oyunun sakladıkları
 
-- İlerlemen (biten tahtalar, yıldızlar, ayarlar) **yalnızca telefonunda**, oyunun özel depolama alanında saklanır. Yarım bıraktığın tahta kaydedilmez, baştan başlar.
+- İlerlemen (biten tahtalar, yıldızlar, ayarlar) **yalnızca telefonunda**, oyunun özel depolama alanında saklanır. Yarım bıraktığın tahta da orada saklanır, kaldığın yerden devam edersin.
 - Reklam izni sorusunu yanıtlarsan seçimin telefonunda, Google izin aracı tarafından saklanır.
 - Bizde hesabın yoktur. Sunucumuz olmadığı için ilerlemen bizim tarafımızdan hiçbir yere yüklenmez.
 
